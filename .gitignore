@@ -1,0 +1,11 @@
+# Confidential research data
+data/raw/
+data/processed/
+
+# Derived results pending sharing authorization
+outputs/
+
+# RStudio files
+.Rhistory
+.RData
+.Rproj.user/
