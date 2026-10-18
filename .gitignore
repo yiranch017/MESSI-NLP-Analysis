@@ -1,11 +1,12 @@
-# Confidential research data
 data/raw/
 data/processed/
 
-# Derived results pending sharing authorization
-outputs/
+outputs/*
+!outputs/tables/
+!outputs/figures/
 
-# RStudio files
 .Rhistory
 .RData
 .Rproj.user/
+.Renviron
+.DS_Store
