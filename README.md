@@ -1,6 +1,7 @@
 # Beyond Pay: Financial and Nonfinancial Recognition in Employee Narratives
 
 **IDS 570 — Text as Data | Data Exploration (Freedom option)**
+
 *Please read the report.qmd file for more detailed explanation of the analysis rationales and interpretations.*
 
 ## Project overview
